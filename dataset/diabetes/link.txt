@@ -1,1 +1,1 @@
-
+https://www.kaggle.com/code/paultimothymooney/predict-diabetes-from-medical-records/input?select=diabetes.csv
